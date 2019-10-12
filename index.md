@@ -16,14 +16,15 @@
 
 <h2>Core Team</h2>
 
-- [Aman Pratap Singh](https://github.com/apsknight), DSC Lead
+- [Saksham Arneja](https://github.com/arnejasaksham), DSC Lead
+- [Aman Pratap Singh](https://github.com/apsknight), Chief Coordinator
 - [Aditya Pal](https://github.com/PalAditya), Backend expert
 - [Tummala Madhav](https://github.com/MadhavChoudhary), Technology Evangelist
 - [Atharva Kulkarni](https://github.com/IronVenom), Aspiring SWE / Full Stack Dev / Python Developer
 
 
 <h2>Our Projects</h2>
-
+- [IIT Bhubaneswar Guide - Google Action for IIT Bhubaneswar](https://github.com/dsciitbbs/iitbbsguide)
 - [ACL - Attendance on Command Line](https://dsciitbbs.github.io/acl)
 - [piesAndBars - A graphical representation of the grade distribution in IIT Bhubaneswar over the years](https://dsciitbbs.github.io/piesAndBars/)
 
